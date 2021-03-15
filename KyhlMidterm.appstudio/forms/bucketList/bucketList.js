@@ -1,3 +1,5 @@
+/*
+// Program 2
 let bucketList = ''
 list = []
 
@@ -11,3 +13,4 @@ do {
     list.push(item)
   }
 } while (bucketList !== 'stop')
+  */

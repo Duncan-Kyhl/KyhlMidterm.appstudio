@@ -1,1 +1,0 @@
-Scenario: Create a program that gets the name of an animal from the user and adds it to an array. Your program will also output an animal name from the array. 

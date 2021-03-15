@@ -1,5 +1,5 @@
 /*
-// Program 1: Animals
+// Program 1
 
 let animal = prompt('Enter an animal: ')
 let myAnimals = ['dog', 'cat', 'horse', 'meerkat']

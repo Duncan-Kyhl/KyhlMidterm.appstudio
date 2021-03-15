@@ -42,6 +42,14 @@
             "bucketList",
             "bucketList.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculate",
+            "calculate.json"
+          ]
         }
       ],
       "configxml": null,
@@ -63,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "animals",
+      "firstform": "calculate",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
