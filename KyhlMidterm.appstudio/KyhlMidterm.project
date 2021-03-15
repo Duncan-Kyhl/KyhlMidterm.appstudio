@@ -50,6 +50,14 @@
             "calculate",
             "calculate.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculateEC",
+            "calculateEC.json"
+          ]
         }
       ],
       "configxml": null,
@@ -71,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "calculate",
+      "firstform": "calculateEC",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
